@@ -8,21 +8,21 @@ I'm always looking for new and interesting projects to work on, so feel free to 
 Don't hesitate to get in touch if you have any questions or just want to say hello! You can reach me via:
 
 <div align="center">
-  <a href="mailto:ahmadalfanihandoyo1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/ahmad-alfani-handoyo" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/afanhandoyo" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-<a href="https://www.youtube.com/@afankeren" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+  <a href="mailto:ahmadalfanihandoyo1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/ahmad-alfani-handoyo"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/afanhandoyo"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="https://www.youtube.com/@afankeren"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
 </div>
 
 <!-- ## 🚀 Projects -->
 
 ## 💼 Work Experience
 
-| Position                     | Company                                                                                    | Period                                |
-| ---------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------- |
-| Security Engineer Intern     | <a href="https://mekari.com/" target="_blank">Mekari</a>                                   | Oct 2022 - Mar 2023                   |
-| Technology Intern            | <a href="https://www.telkomsel.com/en/about-us/inovasi/indico" target="_blank">INDICO</a>  | Jun 2022 - Sep 2022                   |
-| Data Analyst                 | <a href="https://km.itb.ac.id/" target="_blank">Keluarga Mahasiswa ITB</a>                 | Nov 2021 - Mar 2022                   |
+| Position                     | Company                                                                    | Period                                |
+| ---------------------------- | -------------------------------------------------------------------------- | ------------------------------------- |
+| Security Engineer Intern     | <a href="https://mekari.com/">Mekari</a>                                   | Oct 2022 - Mar 2023                   |
+| Technology Intern            | <a href="https://www.telkomsel.com/en/about-us/inovasi/indico">INDICO</a>  | Jun 2022 - Sep 2022                   |
+| Data Analyst                 | <a href="https://km.itb.ac.id/">Keluarga Mahasiswa ITB</a>                 | Nov 2021 - Mar 2022                   |
 
 ## 🛠️ Technologies and Tools
 ### 💻 Programming Languages
