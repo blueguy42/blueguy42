@@ -1,5 +1,5 @@
 ## 👋 Hi there!
-My name is Ahmad Alfani Handoyo, but you can call me Afan. I'm a computer science undergraduate student at Institut Teknologi Bandung, and I have a strong passion for software engineering. I'm known for my strong analytical skills and attention to detail – some might even call me a perfectionist with a heart!
+My name is Ahmad Alfani Handoyo, but you can call me Afan. I'm a computer science undergraduate student at Institut Teknologi Bandung. I'm known for my strong analytical skills and attention to detail – some might even call me a perfectionist with a heart!
 
 I'm always looking for new and interesting projects to work on, so feel free to check out my GitHub repositories to see what I've been up to. You can also learn more about me and my work on my personal website at <a href="https://www.afanhandoyo.com">afanhandoyo.com</a>.
 
@@ -20,6 +20,10 @@ Don't hesitate to get in touch if you have any questions or just want to say hel
 
 | Position                     | Company                                                                    | Period                                |
 | ---------------------------- | -------------------------------------------------------------------------- | ------------------------------------- |
+| Software Engineer            | <a href="https://www.unilite.ai/">Unilite</a>                              | Feb 2024 - Apr 2024                   |
+| Research Intern              | <a href="https://www.jaist.ac.jp/english/">Japan Advanced Institute of Science and Technology (JAIST)</a>                | Jan 2024 - Mar 2024                   |
+| Future IT Specialist Intern  | <a href="https://www.hanati.co.kr/eng/main.jsp">Hana TI</a>                | Sep 2023 - Dec 2023                   |
+| Software Engineer Intern     | <a href="https://makmur.id/">Makmur</a>                                    | May 2023 - Aug 2023                   |
 | Security Engineer Intern     | <a href="https://mekari.com/">Mekari</a>                                   | Oct 2022 - Mar 2023                   |
 | Technology Intern            | <a href="https://www.telkomsel.com/en/about-us/inovasi/indico">INDICO</a>  | Jun 2022 - Sep 2022                   |
 | Data Analyst                 | <a href="https://km.itb.ac.id/">Keluarga Mahasiswa ITB</a>                 | Nov 2021 - Mar 2022                   |
