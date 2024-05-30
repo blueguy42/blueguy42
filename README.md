@@ -21,7 +21,7 @@ Don't hesitate to get in touch if you have any questions or just want to say hel
 | Position                     | Company                                                                    | Period                                |
 | ---------------------------- | -------------------------------------------------------------------------- | ------------------------------------- |
 | Software Engineer            | <a href="https://www.unilite.ai/">Unilite</a>                              | Feb 2024 - Apr 2024                   |
-| Research Intern              | <a href="https://www.jaist.ac.jp/english/">Japan Advanced Institute of Science and Technology (JAIST)</a>                | Jan 2024 - Mar 2024                   |
+| Research Intern              | <a href="https://www.jaist.ac.jp/english/">JAIST</a>                       | Jan 2024 - Mar 2024                   |
 | Future IT Specialist Intern  | <a href="https://www.hanati.co.kr/eng/main.jsp">Hana TI</a>                | Sep 2023 - Dec 2023                   |
 | Software Engineer Intern     | <a href="https://makmur.id/">Makmur</a>                                    | May 2023 - Aug 2023                   |
 | Security Engineer Intern     | <a href="https://mekari.com/">Mekari</a>                                   | Oct 2022 - Mar 2023                   |
